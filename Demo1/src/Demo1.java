@@ -3,5 +3,6 @@ public class Demo1 {
         System.out.println(111111);
         int a=1;
         int b=2;
+        int c=3;
     }
 }
